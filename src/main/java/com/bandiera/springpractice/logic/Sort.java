@@ -1,4 +1,4 @@
-package com.bandiera.javaoop.logic;
+package com.bandiera.springpractice.logic;
 
 import java.util.List;
 

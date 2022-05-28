@@ -1,7 +1,6 @@
-package com.bandiera.javaoop.service;
+package com.bandiera.springpractice.service;
 
-import com.bandiera.javaoop.logic.BubbleSort;
-import com.bandiera.javaoop.logic.JavaSort;
+import com.bandiera.springpractice.logic.JavaSort;
 import org.junit.jupiter.api.Test;
 
 import java.util.List;
